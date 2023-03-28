@@ -1,4 +1,4 @@
-[![Вконтакте](https://img.shields.io/badge/-VK-blue?style=flat&logo=vk)](https://vk.com/)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](https://web.telegram.org/)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/)
+[![Вконтакте](https://img.shields.io/badge/-VK-brightgreen?style=flat-square&logo=vk&logoColor=white)](https://vk.com/sitodel777)
+[![Telegram](https://img.shields.io/badge/-Telegram-brightgreen?style=flat-square&logo=telegram&logoColor=white)](https://t.me/NikitaYurin777)
+[![YouTube](https://img.shields.io/badge/-YouTube-brightgreen?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6qsQ3yXk_nZk-MKLsVax9w)
 
